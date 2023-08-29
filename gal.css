@@ -1,0 +1,31 @@
+.container{
+    width: 80%;
+    margin: auto;
+    margin-top: 20%;
+    margin-left: 15%;
+}
+
+p{
+    font-size: 20px;
+}
+
+
+a{
+    text-decoration: none;
+    border: 1px solid ;
+    color: #cbe4de;
+    display:block ;
+    background-color: #2e4f4f;
+    border: 1px solid #cbe4de;
+    font-size: 20px;
+    padding: 7px 10px;
+    border-radius: 5px;
+    width: 30%;
+    font-family: Montserrat;
+    text-align: center;
+}
+
+a:hover{
+    background-color: rgb(38, 53, 66);
+    /* color: #2e4f4f; */
+}
